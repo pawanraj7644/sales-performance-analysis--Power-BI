@@ -29,16 +29,6 @@ The dashboard is divided into two pages:
 
 * SuperStore_Dashboard.pbix
 
-## 📷 Dashboard Preview
-
-### Page 1
-
-(Add your first screenshot here)
-
-### Page 2
-
-(Add your second screenshot here)
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
